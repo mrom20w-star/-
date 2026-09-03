@@ -1,0 +1,6 @@
+{
+  "name": "منصة ألعاب التحدي وكاش مصر",
+  "description": "منصة ألعاب متكاملة تشمل لعبة الطيارة (Crash)، تفاحة الحظ (Apple of Fortune)، وألعاب الحظ مع نظام إيداع وسحب فودافون وأورانج واتصالات كاش بالجنيه المصري.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
